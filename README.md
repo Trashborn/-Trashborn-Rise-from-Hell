@@ -1,74 +1,80 @@
 <!-- README.md -->
 
-<h1 align="center">🎮 Trashborn</h1>
+<div align="center" style="background:#1b1b1b; padding: 40px 20px; border-radius: 15px; box-shadow: 0 0 30px #e63946cc;">
 
-<p align="center">
-  <em>A dark roguelike descent into sin and madness.</em><br>
-  <strong>Face the Seven Deadly Sins. Confront Lucifer. Escape hell — if you can.</strong>
+<h1 style="color:#e63946; font-size:4rem; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; letter-spacing: 4px;">
+🔥 Trashborn 🔥
+</h1>
+
+<p style="color:#f4a261; font-size:1.2rem; font-style: italic; margin-top: -10px; letter-spacing: 1.5px;">
+Descend into Hell. Face your sins. Survive the damned.
 </p>
 
-<p align="center">
-  <img src="https://your-screenshot-or-logo-url.com" alt="Trashborn Logo" width="600"/>
+<br>
+
+<!-- Animated flames effect with blinking emojis -->
+<div style="font-size: 3rem; animation: flicker 1.8s infinite;">
+  🔥 🩸 👹 🔥 👿 🩸 🔥
+</div>
+
+<br>
+
+<img src="https://i.imgur.com/0fUv2ln.gif" alt="Hell Fire Animation" width="400" style="border-radius: 12px; box-shadow: 0 0 25px #e63946;" />
+
+<br><br>
+
+<h2 style="color:#f4a261; letter-spacing: 2px;">🧠 Concept</h2>
+<p style="color:#eee; max-width: 600px; margin: auto; font-size: 1rem; line-height: 1.6;">
+Trashborn is a roguelike platformer where you descend into a fiery hellscape to face the Seven Deadly Sins — each a twisted boss representing your darkest demons. Explore unique worlds, fight brutal enemies, and confront Lucifer himself.
 </p>
 
----
+<br>
 
-## 🧠 Concept
+<h2 style="color:#f4a261; letter-spacing: 2px;">🔥 The Seven Deadly Sins</h2>
 
-*Trashborn* is an indie roguelike inspired by games like *The Binding of Isaac*, mixing intense combat, exploration, and platforming mechanics. Dive into a twisted version of hell, where each level is ruled by one of the Seven Deadly Sins — each with unique designs, behaviors, and psychological symbolism.
+<div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap; max-width: 600px; margin: auto; color:#eee;">
+  <div style="background:#2a1a14; padding: 12px 20px; border-radius: 8px; box-shadow: 0 0 10px #e63946cc; flex: 1 1 120px; text-align: center; font-weight: 600;">
+    Gluttony 🍖
+  </div>
+  <div style="background:#2a1a14; padding: 12px 20px; border-radius: 8px; box-shadow: 0 0 10px #e63946cc; flex: 1 1 120px; text-align: center; font-weight: 600;">
+    Greed 💰
+  </div>
+  <div style="background:#2a1a14; padding: 12px 20px; border-radius: 8px; box-shadow: 0 0 10px #e63946cc; flex: 1 1 120px; text-align: center; font-weight: 600;">
+    Lust 💋
+  </div>
+  <div style="background:#2a1a14; padding: 12px 20px; border-radius: 8px; box-shadow: 0 0 10px #e63946cc; flex: 1 1 120px; text-align: center; font-weight: 600;">
+    Wrath 🔥
+  </div>
+  <div style="background:#2a1a14; padding: 12px 20px; border-radius: 8px; box-shadow: 0 0 10px #e63946cc; flex: 1 1 120px; text-align: center; font-weight: 600;">
+    Envy 👁️
+  </div>
+  <div style="background:#2a1a14; padding: 12px 20px; border-radius: 8px; box-shadow: 0 0 10px #e63946cc; flex: 1 1 120px; text-align: center; font-weight: 600;">
+    Sloth 😴
+  </div>
+  <div style="background:#2a1a14; padding: 12px 20px; border-radius: 8px; box-shadow: 0 0 10px #e63946cc; flex: 1 1 120px; text-align: center; font-weight: 600;">
+    Pride 👑
+  </div>
+</div>
 
----
+<br>
 
-## 🔥 Bosses – The Seven Sins
+<h2 style="color:#f4a261; letter-spacing: 2px;">👥 The Team</h2>
 
-- **Gluttony**  
-- **Greed**  
-- **Lust**  
-- **Wrath**  
-- **Envy**  
-- **Sloth**  
-- **Pride**  
+<div style="color:#eee; font-size: 1.1rem; max-width: 600px; margin: auto; line-height: 1.5;">
+  <p><strong>Henrique</strong> — Game Designer / Lead Programmer</p>
+  <p><strong>Felipe</strong> — Pixel Artist / Visual Designer</p>
+  <p><strong>João</strong> — Gameplay Programmer / Movement & Physics</p>
+</div>
 
-Each sin rules a procedurally generated region of hell, with their own gameplay mechanics, enemies, traps, and atmosphere.
+<br>
 
----
+<p style="color:#e63946; font-weight: 700; font-size: 1.2rem; letter-spacing: 3px;">Welcome to Hell. Your sins await.</p>
 
-## ⚔️ Features
+</div>
 
-- Roguelike mechanics with permanent death  
-- Procedurally generated levels and boss arenas  
-- Pixel-art visuals with a grim, stylized aesthetic  
-- Unique combat abilities based on inner demons  
-- Psychological horror themes woven into level and character design
-
----
-
-## 👥 The Team
-
-> A three-dev squad passionate about pixel art, weird worlds, and wicked gameplay.
-
-- 🎮 **Henrique** – Game Designer / Lead Programmer  
-- 🎨 **Felipe** – Pixel Artist / Visual Designer  
-- 🕹️ **João** – Gameplay Programmer / Movement & Physics
-
----
-
-## 💻 Built With
-
-- 🧱 **Godot Engine 4**  
-- 🎨 **Aseprite** (Pixel Art)  
-- 📝 **Tiled** (Level Design)  
-- ⚙️ **Git & GitHub** (Version Control)
-
----
-
-## 📂 Project Structure (Basic)
-
-```plaintext
-trashborn/
-├── assets/            # Sprites, animations, UI
-├── scripts/           # GDScript files for logic
-├── scenes/            # Main scenes (player, enemies, levels)
-├── levels/            # Tiled maps or procedural generators
-├── audio/             # Music and sound effects
-└── README.md
+<style>
+@keyframes flicker {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.6; }
+}
+</style>
