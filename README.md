@@ -73,14 +73,10 @@ Descend into Hell. Face your sins. Survive the damned.
 
 ## 📈 **Stats**
 
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&theme=dracula&show_icons=true&count_private=true&hide_border=false" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&layout=compact&langs_count=5&theme=dracula&hide_border=false" height="150" />
 </div>
-
 
 ---
 
@@ -106,4 +102,3 @@ Descend into Hell. Face your sins. Survive the damned.
 <p align="center" style="color:#e63946; font-weight: bold; font-size: 1.5rem;">
 🩸 Welcome to Hell. Your sins await. 🩸
 </p>
-
