@@ -94,7 +94,7 @@ Descend into Hell. Face your sins. Survive the damned.
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+  <img src="https://i.pinimg.com/originals/00/b7/83/00b783697c28d2277625eca44730c3fd.gif"/>
 </div>
 
 ---
