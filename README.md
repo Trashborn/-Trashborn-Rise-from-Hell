@@ -53,7 +53,7 @@ Descend into Hell. Face your sins. Survive the damned.
 
 <div align="left">
   <img src="https://tse1.mm.bing.net/th/id/OIP.kodoullLKGdpPt7K0FUlLwHaHa?rs=1&pid=ImgDetMain&o=7&rm=3" height="30" alt="javascript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react" />
+  <img src=https://logodownload.org/wp-content/uploads/2022/04/javascript-logo-1.png" height="30" alt="react" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="30" alt="unity" />
