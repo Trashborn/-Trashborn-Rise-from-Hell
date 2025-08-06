@@ -19,7 +19,7 @@ Descend into Hell. Face your sins. Survive the damned.
 
 <br>
 
-<img src="https://i.imgur.com/0fUv2ln.gif" alt="Hell Fire Animation" width="400" style="border-radius: 12px; box-shadow: 0 0 25px #e63946;" />
+<img src="https://media.tenor.co/images/076c865ae75b347a443ae0e7596ca3e3/tenor.gif" alt="Hell Fire Animation" width="400" style="border-radius: 12px; box-shadow: 0 0 25px #e63946;" />
 
 <br><br>
 
